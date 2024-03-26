@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-23T23:19:18 MDT" name="Amazon" finished-at="2024-03-23T23:22:01 MDT" duration-ms="163031">
+    <groups>
+    </groups>
+    <test started-at="2024-03-23T23:19:18 MDT" name="TestNG" finished-at="2024-03-23T23:22:01 MDT" duration-ms="163031">
+      <class name="testpac.AmazonTest">
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:testpac.AmazonTest@289710d9]" started-at="2024-03-23T23:19:18 MDT" name="initialSetup" finished-at="2024-03-23T23:19:24 MDT" duration-ms="5759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method signature="Signin()[pri:0, instance:testpac.AmazonTest@289710d9]" started-at="2024-03-23T23:19:24 MDT" name="Signin" finished-at="2024-03-23T23:20:12 MDT" duration-ms="47835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:testpac.AmazonTest@289710d9]" started-at="2024-03-23T23:20:12 MDT" name="initialSetup" finished-at="2024-03-23T23:20:17 MDT" duration-ms="4754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method signature="search()[pri:1, instance:testpac.AmazonTest@289710d9]" started-at="2024-03-23T23:20:17 MDT" name="search" finished-at="2024-03-23T23:21:20 MDT" duration-ms="63065" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:testpac.AmazonTest@289710d9]" started-at="2024-03-23T23:21:21 MDT" name="initialSetup" finished-at="2024-03-23T23:21:27 MDT" duration-ms="5855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method signature="create(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testpac.AmazonTest@289710d9]" started-at="2024-03-23T23:21:27 MDT" name="create" data-provider="Details" finished-at="2024-03-23T23:21:36 MDT" duration-ms="8348" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jatinder]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcbnm@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[abcdef]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[abcdef]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:testpac.AmazonTest@289710d9]" started-at="2024-03-23T23:21:36 MDT" name="initialSetup" finished-at="2024-03-23T23:21:41 MDT" duration-ms="5617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method signature="create(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testpac.AmazonTest@289710d9]" started-at="2024-03-23T23:21:41 MDT" name="create" data-provider="Details" finished-at="2024-03-23T23:21:48 MDT" duration-ms="6787" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Scott]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[acvfgr]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sjufbd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+        <test-method is-config="true" signature="initialSetup()[pri:0, instance:testpac.AmazonTest@289710d9]" started-at="2024-03-23T23:21:48 MDT" name="initialSetup" finished-at="2024-03-23T23:21:53 MDT" duration-ms="5361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialSetup -->
+        <test-method signature="create(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:2, instance:testpac.AmazonTest@289710d9]" started-at="2024-03-23T23:21:53 MDT" name="create" data-provider="Details" finished-at="2024-03-23T23:22:01 MDT" duration-ms="7725" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Adam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abbc@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[aaaaaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create -->
+      </class> <!-- testpac.AmazonTest -->
+    </test> <!-- TestNG -->
+  </suite> <!-- Amazon -->
+</testng-results>
